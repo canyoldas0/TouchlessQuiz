@@ -3,7 +3,7 @@
 This is a quiz game only with the true and false answers. 
 Players answer the questions by tilting their heads either to left or right.
 
-## Note: This project was made in earlier stage of my iOS career. It will be refactored!
+## Note: This project was my very first project my iOS learning process. It will be refactored!
 
 
 
